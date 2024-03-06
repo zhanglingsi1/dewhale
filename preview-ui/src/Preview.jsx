@@ -1,0 +1,1 @@
+export default function VxDev() { return <p>vx.dev placeholder</p>; }
